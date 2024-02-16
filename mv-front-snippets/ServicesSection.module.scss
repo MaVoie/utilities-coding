@@ -1,0 +1,119 @@
+$border-radius: 20px;
+$box-shadow: -5px 5px 10px 0px rgba(0, 0, 0, 0.2);
+$padding: 30px;
+
+.allboxes {
+  display: grid;
+  grid-gap: 15px;
+  grid-template-columns: 1fr 1fr 1fr;
+  transition: all linear 1s;
+  height: 488px;
+  width: 100%;
+}
+
+.blue {
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+  padding: $padding;
+  background-color: #5794f7;
+  grid-column: 3;
+  grid-row: 2;
+  display: flex;
+  text-align: left;
+  flex-direction: column;
+  justify-content: space-between;
+  border-style: none;
+  width: 309px;
+  height: 244px;
+  &:hover {
+    // grid-row: 1 / span 2;
+    // transition: all linear 1s;
+    cursor: pointer;
+  }
+}
+
+// .blue:hover ~ .green {
+//   grid-row: 1;
+//   grid-column: 2;
+//   transition: all linear 1s;
+// }
+
+.green {
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+  padding: $padding;
+  background-color: #00827f;
+  grid-column: 2 / span 2;
+  grid-row: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-style: none;
+  width: 714px;
+  height: 232px;
+  &:hover {
+    // transition: all linear 1s;
+    // grid-column: 1 / span 3;
+    cursor: pointer;
+  }
+}
+
+// .green:hover ~ .orange {
+//   grid-row: 2;
+//   transition: all linear 1s;
+// }
+
+.orange {
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+  padding: $padding;
+  background-color: #ff6000;
+  text-align: left;
+  grid-column: 1;
+  grid-row: 1 / span 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-style: none;
+  width: 471px;
+  height: 488px;
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.brown {
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+  padding: $padding;
+  background-color: #352d2d;
+  grid-column: 2;
+  grid-row: 2;
+  display: flex;
+  text-align: left;
+  flex-direction: column;
+  justify-content: space-between;
+  border-style: none;
+  width: 392px;
+  height: 244px;
+  &:hover {
+    // grid-column: 1 / span 2;
+    // transition: all linear 1s;
+    cursor: pointer;
+  }
+}
+
+// .brown:hover ~ .orange {
+//   grid-row: 1;
+//   grid-column: 1;
+//   transition: all linear 1s;
+// }
+
+@media only screen and (max-width: 1200px) {
+  .blue,
+  .green,
+  .orange,
+  .brown {
+    width: 100%;
+  }
+}
