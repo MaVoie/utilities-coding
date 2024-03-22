@@ -1,0 +1,1559 @@
+{
+  "version": 1,
+  "data": {
+    "f001": {
+      "partner": "Bayes Impact",
+      "type": "Outil numérique",
+      "status": "Active",
+      "name": "Bob Emploi",
+      "intro": "Débloque ta recherche d'emploi ! 🧙‍♂️",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F02_bob-emploi.gif?alt=media",
+      "title": "Bob Emploi",
+      "filter": "",
+      "link": "https://www.bob-emploi.fr/intro?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "20",
+          "frequency": "minutes"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Fbayesimpact.png?alt=media",
+      "descriptions": [
+        "Rechercher un job seul, ça n'a rien de facile !",
+        "Bob emploi analyse les opportunités du marché et te propose la meilleure stratégie pour obtenir un entretien. 🕵🏽"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Un outil pour découvrir la concurrence et les opportunités dans ton domaine.",
+        "Et après ? Un plan d'action pour obtenir des entretiens."
+      ],
+      "newId": "son001",
+      "id": "f001"
+    },
+    "f002": {
+      "partner": "MaVoie",
+      "type": "Accompagnement",
+      "status": "Archived",
+      "name": "Live - Trouver un emploi avec MaVoie",
+      "intro": "On vous présente les solutions gratuites de MaVoie pour vous aider à choisir celle qui vous correspond le plus. 🔭",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F21_live-mavoie.gif?alt=media",
+      "title": "Live - Trouver un emploi avec MaVoie",
+      "filter": "",
+      "link": "https://app.livestorm.co/association-mavoie/mavoie-des-solutions-concretes-de-retour-a-lemploi?type=detailed",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "45",
+          "frequency": "minutes"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-mavoie.svg?alt=media",
+      "descriptions": [
+        "88% des jeunes y voient plus clair sur la prochaine étape.",
+        "9 jeunes sur 10 recommandent MaVoie suite au RDV ! ✌🏽"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Un échange avec un professionnel sur les outils qui accelèrent ta recherche d'emploi.",
+        "Et après ? Un plan d'action concret qui correspond à ta recherche."
+      ],
+      "newId": "sa002",
+      "id": "f002"
+    },
+    "f003": {
+      "partner": "Google - Ateliers Numériques",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Evolution professionnelle",
+      "intro": "Pour t'approprier tous les outils d'une bonne recherche ! 🛠️",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F10_ateliers-numérique-evolutionpro.gif?alt=media",
+      "title": "Ateliers numériques - Évolution professionnelle",
+      "filter": "",
+      "link": "https://learndigital.withgoogle.com/ateliersnumeriques/courses?category=career_development&utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "1",
+          "frequency": "heures"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-google-ateliers-numerique.png?alt=media",
+      "descriptions": [
+        "Se constituer un réseau, prendre la parole en public, optimiser sa productivité...",
+        "Des atouts indispensables en entreprise. 🥸"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Des cours rapides à suivre à ton rythme pour évoluer dans ton métier.",
+        "Et après ? Tu maitriseras les codes indispensables en entreprise."
+      ],
+      "newId": "sf003",
+      "id": "f003"
+    },
+    "f004": {
+      "partner": "Article1",
+      "type": "Outil numérique",
+      "status": "Active",
+      "name": "Jobready",
+      "intro": "Apprends à valoriser tes forces ! 💪",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F06_jobready (1).gif?alt=media",
+      "title": "Jobready",
+      "filter": "",
+      "link": "https://www.jobready.fr/inscription?token=MAVOIE&utm_source=mavoie.org&utm_medium=mavoie-solutions",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "10",
+          "frequency": "minutes"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-jobready.svg?alt=media",
+      "descriptions": [
+        "Mettre en valeur tes compétences plutôt que ton diplôme.",
+        "Décrocher des entretiens sera plus facile ! 🤘"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Un outil pour révéler tes compétences et savoir-faire.",
+        "Et après ? Un CV et un discours en entretien plus percutants !"
+      ],
+      "newId": "son004",
+      "id": "f004"
+    },
+    "f005": {
+      "partner": "Openclassrooms",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Élaborez votre stratégie de recherche d'emploi",
+      "intro": "Apprends à raconter ton histoire aux recruteurs ! 👩‍🎨",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F13_OCR-stratemploi.gif?alt=media",
+      "title": "Openclassrooms - Élaborez votre stratégie de recherche d'emploi",
+      "filter": "",
+      "link": "https://openclassrooms.com/fr/courses/5218221-elaborez-votre-strategie-de-recherche-demploi?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "8",
+          "frequency": "heures"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-openclassrooms.png?alt=media",
+      "descriptions": [
+        "Des cours de 10 minutes pour construire ta stratégie.",
+        "Entraîne-toi avec des professionnels pour réussir tes entretiens ! 🥇"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Un cours pour apprendre à te vendre auprès de recruteurs.",
+        "Et après ? Tu sauras valoriser ton CV et tes candidatures."
+      ],
+      "newId": "sf005",
+      "id": "f005"
+    },
+    "f006": {
+      "partner": "WeTechCare",
+      "type": "Outil numérique",
+      "status": "Active",
+      "name": "Le Déclic",
+      "intro": "Besoin d'aide pour construire ta candidature ? 🤓",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F09_declic-chat.gif?alt=media",
+      "title": "Le Déclic - WeTechCare",
+      "filter": "",
+      "link": "https://le-declic.com/contacter-le-declic/?utm_source=mavoie.org&utm_medium=page+partenaire&utm_campaign=page+partenaire+mavoie.org",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "1",
+          "frequency": "heures"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-declic.png?alt=media",
+      "descriptions": [
+        "Des conseils personnalisés pour optimiser tes candidatures.",
+        "Améliore-toi, grâce au Déclic ! 👩🏼‍💼"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Des professionnels t’aident gratuitement sur ton CV, ta lettre de motivation.",
+        "Et après ? Tu seras prêt pour assurer tes entretiens."
+      ],
+      "newId": "son006",
+      "id": "f006"
+    },
+    "f008": {
+      "partner": "CPF",
+      "type": "Formation",
+      "status": "Active",
+      "name": "CPF (secteur)",
+      "intro": "Tu savais qu'en travaillant tu cumules des heures de formation gratuites dans le secteur de ton choix ? 🎰",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F16_CPF.gif?alt=media",
+      "title": "CPF - <<q2>>",
+      "filter": "SEARCHABLE:CPF",
+      "link": "https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&Query=<<q2>>&Lieu=&TypeSearch=1",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Finançable"
+        },
+        {
+          "type": "duration",
+          "value": "Durées variables",
+          "frequency": ""
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-moncompteformation.png?alt=media",
+      "descriptions": [
+        "Plus de 30 secteurs d'activités couverts.",
+        "Utilise tes droits à la formation continue ! 👩🏽‍🎓"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Une liste de formations finançables avec tes crédits CPF.",
+        "Et après ? Tu seras qualifié pour postuler au job de ton choix."
+      ],
+      "newId": "sf008",
+      "id": "f008"
+    },
+    "f009": {
+      "partner": "Openclassrooms",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Formations diplômantes (secteur)",
+      "intro": "Formations diplômantes, alternances, cours en accès libre... 👨🏽‍🎓",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F15_OCR-100pourcentenligne.gif?alt=media",
+      "title": "Openclassrooms 100% en ligne - <<q2>>",
+      "filter": "sectors:M,O",
+      "link": "https://openclassrooms.com/fr/paths/?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "Durées variables",
+          "frequency": ""
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-openclassrooms.png?alt=media",
+      "descriptions": [
+        "Plus de 500 cours à suivre à ton rythme.",
+        "On va t'indiquer les plus adaptés à ton parcours. 🤓"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Des cours en libre accès dans le secteur que tu as choisi.",
+        "Et après ? Tu seras plus qualifié pour obtenir le poste que tu cibles."
+      ],
+      "newId": "sf009",
+      "id": "f009"
+    },
+    "f010": {
+      "partner": "Openclassrooms",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Développez votre réseau professionnel",
+      "intro": "Apprends à développer ton réseau professionnel ! 🤹‍♀️",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F14_OCR-réseaupro.gif?alt=media",
+      "title": "OpenClassrooms - Développez votre réseau professionnel",
+      "filter": "",
+      "link": "https://openclassrooms.com/fr/courses/5754261-developpez-votre-reseau-professionnel?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "10",
+          "frequency": "heures"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-openclassrooms.png?alt=media",
+      "descriptions": [
+        "50% des jobs sont décrochés grâce au réseau.",
+        "On va t'expliquer comment le renforcer. 💪🏾"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Une courte formation pour apprendre à élargir ton réseau.",
+        "Et après ? Des nouvelles opportunités pour progresser dans ta carrière."
+      ],
+      "newId": "sf010",
+      "id": "f010"
+    },
+    "f012": {
+      "partner": "CPF",
+      "type": "Formation",
+      "status": "Archived",
+      "name": "CPF (secteur)",
+      "intro": "Tu savais qu'en travaillant tu cumules des heures de formation gratuites dans le secteur de ton choix ? 🎰",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F16_CPF.gif?alt=media",
+      "title": "CPF - <<q2>>",
+      "filter": "",
+      "link": "link::CPF",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Finançable"
+        },
+        {
+          "type": "duration",
+          "value": "Durées variables",
+          "frequency": ""
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-moncompteformation.png?alt=media",
+      "descriptions": [
+        "Plus de 30 secteurs d'activités couverts.",
+        "Utilise tes droits à la formation continue ! 👩🏽‍🎓"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Une liste de formations finançables avec tes crédits CPF.",
+        "Et après ? Tu seras qualifié pour postuler au job de ton choix."
+      ],
+      "newId": "sf012",
+      "id": "f012"
+    },
+    "f013": {
+      "partner": "Openclassrooms",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Cours en libre accès (secteur)",
+      "intro": "Formations diplomante, alternances, cours en accès libre... 👨🏽‍🎓",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F15_OCR-100pourcentenligne.gif?alt=media",
+      "title": "Openclassrooms - 100% en ligne - <<q2>>",
+      "filter": "sectors:M,O",
+      "link": "https://openclassrooms.com/fr/courses?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "Durées variables",
+          "frequency": ""
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-openclassrooms.png?alt=media",
+      "descriptions": [
+        "Plus de 500 cours à suivre à ton rythme.",
+        "On va t'indiquer les plus adaptés à ton parcours. 🤓"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Des cours en libre accès dans le secteur que tu as choisi.",
+        "Et après ? Tu seras plus qualifié pour obtenir le poste que tu cibles."
+      ],
+      "newId": "sf013",
+      "id": "f013"
+    },
+    "f014": {
+      "partner": "Openclassrooms",
+      "type": "Formation",
+      "status": "Archived",
+      "name": "Prep'apprentissage",
+      "intro": "Choisis ton métier et forme-toi à ton futur job ! 👩‍🏫",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F12_OCR-prepapprentissage.gif?alt=media",
+      "title": "OpenClassrooms - Prep'apprentissage",
+      "filter": "",
+      "link": "https://info.openclassrooms.com/fr/lp/prepapprentissage?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "4",
+          "frequency": "mois"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-openclassrooms.png?alt=media",
+      "descriptions": [
+        "3 métiers et 1 alternance en fin de parcours. ",
+        "Choisis ton métier et donne-toi toutes les chances pour réussir. 🍀"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? La découverte de 3 métiers qui recrutent pour choisir celui qui te correspond.",
+        "Et après ? Tu démarres une alternance rémunérée en entreprise."
+      ],
+      "newId": "sf014",
+      "id": "f014"
+    },
+    "f015": {
+      "partner": "Generation France",
+      "type": "Formation",
+      "status": "Archived",
+      "name": "Excellence en Point de Vente",
+      "intro": "Accède direct à la grande distribution ! 🙌",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F07_generation-epdv.gif?alt=media",
+      "title": "Generation - Excellence en Point de Vente",
+      "filter": "",
+      "link": "https://gen.partners/MVEPV",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Rémunéré"
+        },
+        {
+          "type": "duration",
+          "value": "3",
+          "frequency": "semaines"
+        },
+        {
+          "type": "location",
+          "value": "Présentiel"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-generation.png?alt=media",
+      "descriptions": [
+        "Un job garanti en seulement 3 semaines !",
+        "La grande distribution recrute. 🏪"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Une formation dans la vente : boulangerie, charcuterie, fromagerie...",
+        "Et après ? Un emploi clé en main dans la grande distribution."
+      ],
+      "newId": "sf015",
+      "id": "f015"
+    },
+    "f016": {
+      "partner": "Oreegami",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Bootcamp numérique Google",
+      "intro": "Lance-toi à la découverte du marketing digital ! 💻",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F05_oreegami_bootcamp.gif?alt=media",
+      "title": "Oreegami - Bootcamp numérique",
+      "filter": "",
+      "link": "https://www.oreegami.com/le-bootcamp-numerique/?utm_source=mavoie.org&utm_medium=mavoie-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "3",
+          "frequency": "mois"
+        },
+        {
+          "type": "location",
+          "value": "En ligne & Présentiel"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-oreegami.png?alt=media",
+      "descriptions": [
+        "85% des apprenants trouve un job dans les 6 mois qui suit la formation.📆",
+        "Pas besoin d’avoir un parcours initial en marketing ou communication pour postuler !"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Un Bachelor « Responsable Marketing Digital et Publicité en ligne ».",
+        "Et après ? Tu auras un diplôme reconnu par l’Etat et tu seras prêt pour travailler en entreprise."
+      ],
+      "newId": "sf016",
+      "id": "f016"
+    },
+    "f017": {
+      "partner": "Google - Ateliers Numériques",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Marketing et Data",
+      "intro": "Si tu as besoin d'un coup de pouce pour progresser dans le numérique, t'es au bon endroit ! 🧑‍💻",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F11_ateliersnumeriques-market&tech.gif?alt=media",
+      "title": "Ateliers numériques - Marketing et Data",
+      "filter": "",
+      "link": "https://learndigital.withgoogle.com/ateliersnumeriques/courses?category=digital_marketing%2Cdata&utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "1h-10h",
+          "frequency": ""
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-google-ateliers-numerique.png?alt=media",
+      "descriptions": [
+        "Plus de 20 formations dans le Marketing et la Data.",
+        "Fais passer ton projet à l'étape supérieure. 🚀"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Des cours rapides à suivre à ton rythme pour développer ton projet.",
+        "Et après ? Tu obtiens une certification Google - Ateliers numériques à insérer sur ton CV. 😎"
+      ],
+      "newId": "sf017",
+      "id": "f017"
+    },
+    "f018": {
+      "partner": "Inco Academy",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Get into tech",
+      "intro": "Forme-toi aux bases des métiers du numérique ! 🤖",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F19_inco.gif?alt=media",
+      "title": "INCO Academy - Get into tech",
+      "filter": "",
+      "link": "https://incoacademy.fr/programs/111?utm_source=mavoie.org&utm_medium=link-solutions",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "5",
+          "frequency": "semaines"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-inco.png?alt=media",
+      "descriptions": [
+        "Web design, développement d'app, marketing digital...",
+        "Découvre si les métiers du digital sont faits pour toi. 👨‍💻"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Une formation à la découverte des métiers du digital.",
+        "Et après ? Tu auras les bases pour te lancer dans l'univers du digital."
+      ],
+      "newId": "sf018",
+      "id": "f018"
+    },
+    "f019": {
+      "partner": "Openclassrooms",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Cours en libre accès (100% en ligne)",
+      "intro": "Formations diplomante, alternances, cours en accès libre... 👨🏽‍🎓",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F15_OCR-100pourcentenligne.gif?alt=media",
+      "title": "Openclassrooms - 100% en ligne",
+      "filter": "",
+      "link": "https://openclassrooms.com/fr/courses?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "1h-4",
+          "frequency": "mois"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-openclassrooms.png?alt=media",
+      "descriptions": [
+        "Plus de 500 cours à suivre à ton rythme.",
+        "On va t'indiquer les plus adaptés à ton parcours. 🤓"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Des cours en libre accès dans le secteur que tu as choisi.",
+        "Et après ? Tu seras plus qualifié pour obtenir le poste que tu cibles."
+      ],
+      "newId": "sf019",
+      "id": "f019"
+    },
+    "f021": {
+      "partner": "Bonjour Sophy",
+      "type": "Outil numérique",
+      "status": "Archived",
+      "name": "Bonjour Sophy",
+      "intro": "Découvre ta mission de vie ! 🌈",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F01_bonjour-sophy.gif?alt=media",
+      "title": "Bonjour Sophy",
+      "filter": "",
+      "link": "https://bonjoursophy.com/la-mission-de-vie/?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "3",
+          "frequency": "heures"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-bonjour-sophy.png?alt=media",
+      "descriptions": [
+        "47% des Français ont l'impression de passer à côté de leur vie.",
+        "Découvre ta mission de vie et donne du sens à ta recherche d'emploi ! 🕵🏻"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Des ateliers qui te guident dans ta quête de sens.",
+        "Et après ? Ta mission de vie en une phrase."
+      ],
+      "newId": "son021",
+      "id": "f021"
+    },
+    "f022": {
+      "partner": "Chance",
+      "type": "Accompagnement",
+      "status": "Active",
+      "name": "Chance",
+      "intro": "Tu veux que ton prochain job te ressemble ? 🤩",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F04_chance (1).gif?alt=media",
+      "title": "Chance",
+      "filter": "",
+      "link": "https://www.chance.co/fr?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Finançable"
+        },
+        {
+          "type": "duration",
+          "value": "12",
+          "frequency": "semaines"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Fchance.png?alt=media",
+      "descriptions": [
+        "12 semaines d'accompagnement personnalisé.",
+        "Choisis la voie qui te ressemble !  🛣"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Le parcours de coaching digital pour choisir la voie qui te ressemble.",
+        "Et après ? Un bilan de tes aspirations, tes compétences et des métiers qui te rendront heureux. "
+      ],
+      "newId": "sa022",
+      "id": "f022"
+    },
+    "f023": {
+      "partner": "MaVoie",
+      "type": "Accompagnement",
+      "status": "Archived",
+      "name": "RDV d'orientation MaVoie",
+      "intro": "Nos orientateurs sont là pour t'écouter et te donner les meilleurs conseils. 🧏🏻",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F17_RDV-orientateurgif.gif?alt=media",
+      "title": "RDV d'orientation MaVoie",
+      "filter": "",
+      "link": "/rdv-decouverte",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "30",
+          "frequency": "minutes"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-mavoie.png?alt=media",
+      "descriptions": [
+        "88% des jeunes y voient plus clair sur la prochaine étape.",
+        "9 jeunes sur 10 recommandent MaVoie suite au RDV ! ✌🏽"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Un échange en visio de 30 minutes sur ton parcours et tes besoins.",
+        "Et après ? Un diagnostic personnalisé qui t'aide à passer à l'action."
+      ],
+      "newId": "sa023",
+      "id": "f023"
+    },
+    "f024": {
+      "partner": "MaVoie",
+      "type": "Accompagnement",
+      "status": "Active",
+      "name": "RDV d'orientation MaVoie",
+      "intro": "Nos coachs sont là pour t’écouter et te donner les meilleurs conseils. 🧏🏻",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F17_RDV-orientateurgif.gif?alt=media",
+      "title": "Tu as besoin de conseils ou de soutien ?",
+      "filter": "",
+      "link": "/rdv-decouverte",
+      "tags": [],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-mavoie.png?alt=media",
+      "descriptions": [
+        "",
+        "Entretiens-toi gratuitement avec notre coach en insertion pro."
+      ],
+      "descriptionsGif": [],
+      "newId": "sa024",
+      "id": "f024"
+    },
+    "f027": {
+      "partner": "Generation France",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Customer Care",
+      "intro": "Deviens un agent customer care en seulement 5 semaines. 😍",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F03_generation-cc.gif?alt=media",
+      "title": "Generation - Customer Care",
+      "filter": "",
+      "link": "https://gen.partners/MV21PG",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "5",
+          "frequency": "semaines"
+        },
+        {
+          "type": "location",
+          "value": "En ligne & présentiel"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-generation.png?alt=media",
+      "descriptions": [
+        "83% trouvent un job dans les 6 mois !",
+        "Forme-toi à un métier d'avenir : le service client. 👨‍💼"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Une formation pour répondre aux demandes des clients.",
+        "Et après ? 83% trouvent un poste en entreprise grâce à la formation."
+      ],
+      "newId": "sf027",
+      "id": "f027"
+    },
+    "f029": {
+      "partner": "CVDesignR",
+      "type": "Outil numérique",
+      "status": "Active",
+      "name": "CVDesignR",
+      "intro": "Refaire son CV n'a jamais été aussi facile. 🙌",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F20_cvdesignr.gif?alt=media",
+      "title": "CVDesignR",
+      "filter": "",
+      "link": "https://cvdesignr.com/fr?asrc=mavoie&utm_source=mavoie.org&utm_medium=link&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "20",
+          "frequency": "minutes"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Fcv-brand-blue.png?alt=media",
+      "descriptions": [
+        "Plus de 20 modèles de CV gratuits, professionnels, qui plaisent aux recruteurs.",
+        "Crée autant de CV que tu le souhaites et télécharge-les en illimité. 💯 "
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Un outil de référence pour la création de CV design et professionnel.",
+        "Et après ? Tu auras un CV en pdf qui sort du lot !"
+      ],
+      "newId": "son029",
+      "id": "f029"
+    },
+    "f030": {
+      "partner": "Generation France",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Objectif Métiers du soin",
+      "intro": "Deviens aide-soignant, aide à domicile ou agent en service hospitalier 🤩",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F08_generation-objectifsante.gif?alt=media",
+      "title": "Generation - Objectif Métiers Santé",
+      "filter": "sectors:J,K",
+      "link": "https://gen.partners/MV22OMS",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "4",
+          "frequency": "semaines"
+        },
+        {
+          "type": "location",
+          "value": "Présentiel"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-generation.png?alt=media",
+      "descriptions": [
+        "Devenir agent hospitalier, aide à domicile ou aide-soignant.",
+        "Forme-toi et décroche un job avec du sens ! 🏥"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Une formation aux métiers de la santé.",
+        "Et après ? Un emploi immédiat ou une préparation au concours d'aide-soignant."
+      ],
+      "newId": "sf030",
+      "id": "f030"
+    },
+    "f031": {
+      "partner": "Konexio",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Développement web",
+      "intro": "Forme-toi à un métier d'avenir : le code !",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F22_konexio-dev.gif?alt=media",
+      "title": "Konexio - Développement web",
+      "filter": "",
+      "link": "https://www.konexio.eu/competences-code.html?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "6",
+          "frequency": "mois"
+        },
+        {
+          "type": "location",
+          "value": "En ligne & présentiel"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Fkonexio.png?alt=media",
+      "descriptions": [
+        "Aucun pré-requis, juste ta passion pour le code.",
+        "72% trouvent un job dans les 6 mois !"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? L’opportunité d’être formé au métier de développeur.euse web même si tu débute dans le code.",
+        "Et après ? Tu auras un diplôme et pourras être récruté dans les entreprises tech."
+      ],
+      "newId": "sf031",
+      "id": "f031"
+    },
+    "f032": {
+      "partner": "Inco Academy",
+      "type": "Formation",
+      "status": "Archived",
+      "name": "Get Into Green",
+      "intro": "Découvre les métiers de la transition écologique !",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F23_inco-get-into-green.gif?alt=media",
+      "title": "INCO Academy – Get Into Green",
+      "filter": "",
+      "link": "https://incoacademy.fr/programs/33?utm_source=mavoie.org&utm_medium=link-solutions",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "5",
+          "frequency": "semaines"
+        },
+        {
+          "type": "location",
+          "value": "En ligne & présentiel"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-inco.png?alt=media",
+      "descriptions": [
+        "Rénovation énergétique, agriculture bio, energie solaire et plein d'autres métiers à découvrir autour de l'environnement.",
+        "Aucun pré-requis n'est demandé, juste ta curiosité."
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Une formation à la découverte des métiers de l'écologie.",
+        "Et après ? Tu auras les bases pour te lancer dans un métier de la transition écologique."
+      ],
+      "newId": "sf032",
+      "id": "f032"
+    },
+    "f033": {
+      "partner": "Rocket school",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Digital Business Developer",
+      "intro": "Apprends tous les secrets de la vente ! 💰",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F24_rocket-school.gif?alt=media",
+      "title": "Rocket school - Digital Business Developer",
+      "filter": "",
+      "link": "https://bit.ly/3EGaIH6",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "3",
+          "frequency": "mois"
+        },
+        {
+          "type": "location",
+          "value": "Présentiel"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2FRocket-School.png?alt=media",
+      "descriptions": [
+        "Aucun pré-requis à part ta motivation.",
+        "100% des apprenants sont embauchés en entreprise suite à la formation !"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Une formation pratique aux meilleures techniques et outils numériques de vente.",
+        "Et après ? Une alternance garantie pour mettre en pratique ce que tu as appris."
+      ],
+      "newId": "sf033",
+      "id": "f033"
+    },
+    "f034": {
+      "partner": "Dema1n",
+      "type": "Accompagnement",
+      "status": "Active",
+      "name": "Dema1n",
+      "intro": "Tu n'es plus seul dans la construction de ton futur ! 👯‍♀️",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F25_Dema1n.gif?alt=media",
+      "title": "Dema1n",
+      "filter": "",
+      "link": "https://www.dema1n.org?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "3",
+          "frequency": "mois"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-demai1n.png?alt=media",
+      "descriptions": [
+        "On t'accompagne pendant 3 mois dans la réussite de tes études et ton insertion pro.",
+        "Ton mentor t'aidera a réaliser pleinement tes objectifs et dévoiler ton potentiel."
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Un accompagnement gratuit et personnalisé d'un professionnel du métier de ton choix.",
+        "Et après ? Ton insertion professionnelle se fera en douceur."
+      ],
+      "newId": "sa034",
+      "id": "f034"
+    },
+    "f035": {
+      "partner": "Pôle Emploi",
+      "type": "Outil numérique",
+      "status": "Active",
+      "name": "La bonne alternance",
+      "intro": "Besoin d'un coup de main pour trouver ton alternance? 😉",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F00_default-image.png?alt=media",
+      "title": "La bonne alternance",
+      "filter": "",
+      "link": "https://labonnealternance.pole-emploi.fr?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "3",
+          "frequency": "mois"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Fla-bonne-alternance-logo.png?alt=media",
+      "descriptions": ["", ""],
+      "descriptionsGif": ["", ""],
+      "newId": "son035",
+      "id": "f035"
+    },
+    "f036": {
+      "partner": "Generation",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Business developer - Attaché Commercial",
+      "intro": "Attiré par le commerce et la vente ? 💻",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F26_generation-business-developer.gif?alt=media",
+      "title": "Generation - Business developer : Attaché Commercial",
+      "filter": "",
+      "link": "https://gen.community/MV22BDR?",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "7",
+          "frequency": "semaines"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-generation.png?alt=media",
+      "descriptions": [
+        "Un métier flexible avec des salaires attractifs. 💸",
+        "85% trouvent un job dans les 6 mois !"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Une formation rapide et 100 % gratuite pour maitriser les techniques de vente et convaincre les clients.",
+        "Et après ? Des mises en relation avec des employeurs pour décrocher un emploi très rapidement."
+      ],
+      "newId": "sf036",
+      "id": "f036"
+    },
+    "f037": {
+      "partner": "Konexio",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Technicien Supérieur Systèmes et Réseaux",
+      "intro": "Envie d'apprendre un métier très demandé dans le marché du travail ? 🦸🏽‍♂️",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F27_konexio-technicien-superieur-reseaux-systemes.gif?alt=media",
+      "title": "Konexio - Technicien Supérieur Systèmes et Réseaux",
+      "filter": "",
+      "link": "https://www.konexio.eu/technicien-reseau.html?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "6",
+          "frequency": "mois"
+        },
+        {
+          "type": "location",
+          "value": "En ligne & Présentiel"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Fkonexio.png?alt=media",
+      "descriptions": [
+        "Aucun pré-requis, juste ton envie de travailler dans l'informatique.",
+        "72% trouvent un job dans les 6 mois !"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Tout ce qu'il faut savoir sur les infrastructures et la sécurité des données en entreprise.",
+        "Et après ? Tu auras un diplôme pour faire un des métiers les plus recherchés sur le marché."
+      ],
+      "newId": "sf037",
+      "id": "f037"
+    },
+    "f038": {
+      "partner": "Oreegami",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Trader Digital",
+      "intro": "Tu veux intégrer une agence marketing ? 🎰",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F05_oreegami_trader_digital.gif?alt=media",
+      "title": "Oreegami - Trader Digital",
+      "filter": "",
+      "link": "https://www.oreegami.com/devenez-trader-digital-chez-publicis-media?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "3",
+          "frequency": "mois"
+        },
+        {
+          "type": "location",
+          "value": "Présentiel"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-oreegami.png?alt=media",
+      "descriptions": [
+        "Un métier d'avenir : aucun pré-requis demandé. 🦸‍♂️",
+        "12 mois en contrat de professionalisation pour continuer à apprendre par la pratique."
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Un parcours intensif pour devenir un expert de Search Marketing, Social Media.",
+        "Et après ? Tu intègres en alternance une agence marketing."
+      ],
+      "newId": "sf038",
+      "id": "f038"
+    },
+    "f039": {
+      "partner": "Activ'Action",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Atelier recherche emploi",
+      "intro": "Participez à des ateliers gratuits, collaboratifs et ouverts à tous.",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F00_default-image.png?alt=media",
+      "title": "Activ'Action",
+      "filter": "",
+      "link": "https://www.activaction.org/agenda.html?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "3",
+          "frequency": "mois"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-activaction.svg?alt=media",
+      "descriptions": ["", ""],
+      "descriptionsGif": ["", ""],
+      "newId": "sf039",
+      "id": "f039"
+    },
+    "f040": {
+      "partner": "École Gustave",
+      "type": "Formation",
+      "status": "Active",
+      "name": "École Gustave",
+      "intro": "Vous voulez construire le monde de demain ? 🌍",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F28_ecole_gustave.gif?alt=media",
+      "title": "École Gustave - Métiers du bâtiment",
+      "filter": "",
+      "link": "https://ecole-gustave.com/choix-specialisation-batiment?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "3",
+          "frequency": "mois"
+        },
+        {
+          "type": "location",
+          "value": "Présentiel"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-ecole-gustave.png?alt=media",
+      "descriptions": [
+        "Tu ouvriras les portes à une riche variété de métiers manuels, tu pourras développer ta polyvalence et facilement évoluer dans ta carrière.",
+        "95% des étudiants sont en poste en sortie de formation."
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Des formations aux métiers du bâtiment (plomberie, chauffage et électricité)",
+        "Et après ? Tu continueras à apprendre en travaillant en alternance."
+      ],
+      "newId": "sf040",
+      "id": "f040"
+    },
+    "f041": {
+      "partner": "MaVoie",
+      "type": "Outil numérique",
+      "status": "Active",
+      "name": "1entretien 1job",
+      "intro": "Réussir tes entretiens est possible ! 💪",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F41_1e1jb.gif?alt=media",
+      "title": "1entretien 1job",
+      "filter": "",
+      "link": "/1entretien1job",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "10",
+          "frequency": "minutes"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2F1entretien1job.png?alt=media",
+      "descriptions": [
+        "En moins de 10 minutes tu retrouves les questions principales sur lesquelles tu es attendu en entretien : on t'aide à préparer tes réponses.",
+        "Un résumé final te permet de réviser jusqu'au jour de l'entretien."
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Un entrainement rapide pour préparer et réussir tes entretiens.",
+        "Et après ? Tu auras les bons réflexes et tu décrocheras le job."
+      ],
+      "newId": "son041",
+      "id": "f041"
+    },
+    "f042": {
+      "partner": "Du pain & des roses",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Du pain & des roses",
+      "intro": "Tu as toujours rêvé de travailler dans les fleurs ? 🌸 (formation réservée aux femmes et minorités de genre)",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F32_du-pain-&-des-roses.gif?alt=media",
+      "title": "Du pain & des roses",
+      "filter": "",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfXSqITYlmglksH_sCB6MgPkvfRIowpmcdr-RP2NmSLPhiHhg/viewform?vc=0&c=0&w=1&flr=0",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "3",
+          "frequency": "mois"
+        },
+        {
+          "type": "location",
+          "value": "Présentiel"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-dupaindesroses.png?alt=media",
+      "descriptions": [
+        "Tu pourras reconnaître les fleurs, réaliser des compositions florales et travailler dans un atelier créatif.",
+        "90% des apprenantes sont satisfaites et le taux de réussite du programme est de 85%."
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Une formation et un stage au métier de fleuriste adressés aux femmes et aux minorités de genre.",
+        "Et après ? Tu auras un Certificat de Qualification Professionnelle (CQP) Assistant.e Fleuriste."
+      ],
+      "newId": "sf042",
+      "id": "f042"
+    },
+    "f043": {
+      "partner": "Openclassrooms",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Community Manager en alternance",
+      "intro": "Tu peux faire des réseaux sociax ton vrai job ! 🪄",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F35_ocr_community-manager.gif?alt=media",
+      "title": "Openclassrooms - Community Manager en alternance ",
+      "filter": "",
+      "link": "https://openclassrooms.com/fr/application/welcome?appsource=generic&utm_source=partner&utm_medium=referral&utm_campaign=referrer_partner_fr_fr_apr_prospecting_p-part-mavoie_230112_00",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Rémunéré"
+        },
+        {
+          "type": "duration",
+          "value": "18",
+          "frequency": "mois"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-openclassrooms.png?alt=media",
+      "descriptions": [
+        "Démarre à tout moment ta nouvelle carrière ! Disponible aussi à temps partiel.",
+        "Décroche une certification reconnue par l'état."
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Une formation 100% en ligne et un travail en alternance en tant que community manager.",
+        "Et après ? Tu sauras gérer la notoriété des marques sur les réseaux sociaux."
+      ],
+      "newId": "sf043",
+      "id": "f043"
+    },
+    "f044": {
+      "partner": "Openclassrooms",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Intégrateur web en alternance",
+      "intro": "Apprends un métier du futur en le pratiquant dès le début ! 🧑🏽‍💻",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F36_ocr_integrateur-web.gif?alt=media",
+      "title": "Openclassrooms - Intégrateur web en alternance",
+      "filter": "",
+      "link": "https://openclassrooms.com/fr/application/welcome?appsource=generic&utm_source=partner&utm_medium=referral&utm_campaign=referrer_partner_fr_fr_apr_prospecting_p-part-mavoie_230112_00",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Rémunéré"
+        },
+        {
+          "type": "duration",
+          "value": "18",
+          "frequency": "mois"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-openclassrooms.png?alt=media",
+      "descriptions": [
+        "Démarre à tout moment ! Disponible aussi à temps partiel.",
+        "Décroche une certification reconnue par l'état."
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Une formation 100% en ligne et un travail en alternance en tant qu'intégrateur web.",
+        "Et après ? Tu sauras créer des pages web de A à Z."
+      ],
+      "newId": "sf044",
+      "id": "f044"
+    },
+    "f045": {
+      "partner": "Openclassrooms",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Conseiller en évolution pro en alternance",
+      "intro": "Deviens un facilitateur des projets d'évolution professionnelle ! 🃏",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F34_ocr_conseiller-evol-pro.gif?alt=media",
+      "title": "Openclassrooms - Conseiller en évolution pro",
+      "filter": "",
+      "link": "https://openclassrooms.com/fr/application/welcome?appsource=generic&utm_source=partner&utm_medium=referral&utm_campaign=referrer_partner_fr_fr_apr_prospecting_p-part-mavoie_230112_00",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Rémunéré"
+        },
+        {
+          "type": "duration",
+          "value": "12",
+          "frequency": "mois"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-openclassrooms.png?alt=media",
+      "descriptions": [
+        "Démarre à tout moment ! Disponible aussi à temps partiel.",
+        "Décroche une certification reconnue par l'état."
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Une formation 100% en ligne et un travail en alternance en tant que conseiller en évolution professionnelle.",
+        "Et après ? Tu sauras accompagner des personnes dans leurs choix de carrière."
+      ],
+      "newId": "sf045",
+      "id": "f045"
+    },
+    "f046": {
+      "partner": "Generation France",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Réparateur et Maintenance de Vélos",
+      "intro": "Envie de travailler dans un secteur écolo et qui recrute ?🚴🏼‍♂️",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F37_Generation-reparateur-velos.gif?alt=media",
+      "title": "Generation - Réparateur et Maintenance de Vélos",
+      "filter": "",
+      "link": "https://gen.partners/MV22RMV",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "3",
+          "frequency": "semaines"
+        },
+        {
+          "type": "location",
+          "value": "Présentiel"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-generation.png?alt=media",
+      "descriptions": [
+        "Le secteur du vélo ? Un secteur d'avenir 🚲",
+        "Forme toi et trouve un emploi en 3 semaines !"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Des notions techniques et comportamentales pour devenir réparateur de vélos et maitriser la relation client.",
+        "Et après ? Des possibilités d’emploi immédiates et concrètes post-formation dans le secteur du cycle."
+      ],
+      "newId": "sf046",
+      "id": "f046"
+    },
+    "f047": {
+      "partner": "Inco Academy",
+      "type": "Formation",
+      "status": "Active",
+      "name": "Get Into Digital & Green",
+      "intro": "Tu savais que le digital et l'environnement ont plein de points de convergence ? ♾️",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F42_inco-get-into-digital-and-green.gif?alt=media",
+      "title": "Inco Academy - Get Into Digital & Green",
+      "filter": "",
+      "link": "https://incoacademy.fr/programs/29",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "6",
+          "frequency": "semaines"
+        },
+        {
+          "type": "location",
+          "value": "En ligne & présentiel"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-inco.png?alt=media",
+      "descriptions": [
+        "Inco Academy te donne les clés pour comprendre les enjeux du secteur et te lancer dans les métiers digital & green.",
+        "On t'aide à t'orienter pour choisir la suite de ton parcours."
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Une formation pour découvrir les métiers du digital durable.",
+        "Et après ? Tu sauras dans quels métiers les numérique et l'environnment se rencontrent."
+      ],
+      "newId": "sf047",
+      "id": "f047"
+    },
+    "f048": {
+      "partner": "My job glasses",
+      "type": "Accompagnement",
+      "status": "Active",
+      "name": "My job glasses",
+      "intro": "Va à la rencontre de professionnels engagés qui partagent leurs expertises ! 💼",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F00_default-image.png?alt=media",
+      "title": "My job glasses",
+      "filter": "",
+      "link": "https://myjobglasses.page.link/vGCP",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "5",
+          "frequency": "minutes"
+        },
+        {
+          "type": "location",
+          "value": "En ligne"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-myjobglasses.png?alt=media",
+      "descriptions": [
+        "La plus grande communauté de professionnels engagés qui partage ses expertises professionnelles.",
+        "625 000 binômes créés"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Un réseau d'experts disponibles en ligne dans le secteur de ton choix.",
+        "Et après ? Tu seras accompagné dans le développement de nouvelles compétences."
+      ],
+      "newId": "sa048",
+      "id": "f048"
+    },
+    "f049": {
+      "partner": "DUO for a JOB",
+      "type": "Accompagnement",
+      "status": "Active",
+      "name": "DUO for a JOB",
+      "intro": "Plus de 70 % des mentorés trouvent leur voie, alors fonce ! ⚡",
+      "srcGif": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Fgifs%2F00_default-image.png?alt=media",
+      "title": "DUO for a JOB",
+      "filter": "",
+      "link": "https://www.duoforajob.fr/fr/en-recherche-demploi/inscription-mentee/?pr=y86dYBXwdR65i2",
+      "tags": [
+        {
+          "type": "cost",
+          "value": "Gratuit"
+        },
+        {
+          "type": "duration",
+          "value": "6",
+          "frequency": "mois"
+        },
+        {
+          "type": "location",
+          "value": "Dans plusieurs villes de France"
+        }
+      ],
+      "srcLogo": "https://firebasestorage.googleapis.com/v0/b/mavoie-development.appspot.com/o/public%2Fsolutions%2Flogos%2Flogo-duoforajob.png?alt=media",
+      "descriptions": [
+        "Plus de 70 % des participants trouvent leur voie, alors fonce !",
+        "Pas de diplôme ni d’expérience professionnelle demandés"
+      ],
+      "descriptionsGif": [
+        "C'est quoi ? Un accompagnement personnalisé par une personne expérimentée qui dure jusqu'à 6 mois.",
+        "Et après ? Le programme boostera ton projet pro, ta confiance en toi, tes candidatures, tes entretiens d'embauche, et même ton réseau pro."
+      ],
+      "newId": "sa049",
+      "id": "f049"
+    }
+  }
+}

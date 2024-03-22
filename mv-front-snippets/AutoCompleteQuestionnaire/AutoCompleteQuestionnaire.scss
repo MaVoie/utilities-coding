@@ -1,0 +1,101 @@
+/****************************************************************
+*  container:                'react-autosuggest-questionnaire__container',
+*  containerOpen:            'react-autosuggest-questionnaire__container--open',
+*  input:                    'react-autosuggest-questionnaire__input',
+*  inputOpen:                'react-autosuggest-questionnaire__input--open',
+*  inputFocused:             'react-autosuggest-questionnaire__input--focused',
+*  suggestionsContainer:     'react-autosuggest-questionnaire__suggestions-container',
+*  suggestionsContainerOpen: 'react-autosuggest-questionnaire__suggestions-container--open',
+*  suggestionsList:          'react-autosuggest-questionnaire__suggestions-list',
+*  suggestion:               'react-autosuggest-questionnaire__suggestion',
+*  suggestionFirst:          'react-autosuggest-questionnaire__suggestion--first',
+*  suggestionHighlighted:    'react-autosuggest-questionnaire__suggestion--highlighted',
+*  sectionContainer:         'react-autosuggest-questionnaire__section-container',
+*  sectionContainerFirst:    'react-autosuggest-questionnaire__section-container--first',
+*  sectionTitle:             'react-autosuggest-questionnaire__section-title'
+*****************************************************************/
+@import "styles/styles";
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.react-autosuggest-questionnaire__container {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.react-autosuggest-questionnaire__input {
+  display: block;
+  width: 80%;
+  height: 56px;
+  box-sizing: border-box;
+  padding: 8px 10px;
+  border: 1px solid $grey-400;
+  border-radius: 6px;
+  margin: 0 auto 20px auto;
+  @include input-option-text($font-family, $grey-600, 400);
+}
+
+.react-autosuggest-questionnaire__input--focused {
+  outline: none;
+  border: 1px solid $aquagreen;
+}
+
+.react-autosuggest-questionnaire__input--open {
+  border-bottom-left-radius: 6;
+  border-bottom-right-radius: 6;
+}
+
+.react-autosuggest-questionnaire__input::placeholder {
+  color: $grey-600;
+}
+
+.react-autosuggest-questionnaire__suggestions-container {
+  display: none;
+}
+
+.react-autosuggest-questionnaire__suggestions-container em {
+  @include input-option-text($font-family-bold, $grey-900, 400);
+}
+
+.react-autosuggest-questionnaire__suggestions-container--open {
+  display: block;
+  box-sizing: border-box;
+  top: 51px;
+  width: 100%;
+  max-height: 220px;
+  margin-top: 10px;
+  border-bottom: 1px solid $grey-200;
+  background-color: #fff;
+  z-index: 2;
+  overflow-x: hidden;
+  overflow-y: auto;
+  @include input-option-text($font-family, $grey-900, 400);
+}
+
+.react-autosuggest-questionnaire__section-title {
+  padding: 10px 20px;
+  font-weight: 600;
+}
+
+.react-autosuggest-questionnaire__suggestions-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.react-autosuggest-questionnaire__suggestion {
+  cursor: pointer;
+  padding: 10px 20px;
+  border-top: 1px solid $grey-200;
+}
+
+.react-autosuggest-questionnaire__suggestion--first {
+  border-top: 1px solid $grey-200;
+}
+
+.react-autosuggest-questionnaire__suggestion--highlighted {
+  background-color: $grey-300;
+}

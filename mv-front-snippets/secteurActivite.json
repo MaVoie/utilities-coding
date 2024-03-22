@@ -1,0 +1,109 @@
+{
+  "area": [
+    {
+      "id": "A",
+      "name": "Agriculture, Pêche, Métiers animaliers, Espaces verts",
+      "formations": [],
+      "linkCPF":"https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=animaux_nature&typesearch=10",
+      "linkOCR":""
+    },
+    {
+      "id": "B",
+      "name": "Arts et déco",
+      "formations": [],
+      "linkCPF":"https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=art_design_decoration&typesearch=10",
+      "linkOCR":""
+    },
+    {
+      "id": "C",
+      "name": "Banque, Assurance, Immobilier",
+      "formations": ["f014","f018"],
+      "linkCPF":"https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=banque_finance_assurance&typesearch=10",
+      "linkOCR":""
+    },
+    {
+      "id": "D",
+      "name": "Commerce, Vente et Grande Distribution",
+      "formations": ["f027","f015","f017","f014","f018"],
+      "linkCPF":"https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=commerce_marketing&typesearch=10",
+      "linkOCR":""
+    },
+    {
+      "id": "E",
+      "name": "Communication et Média",
+      "formations": ["f017","f014","f016","f018"],
+      "linkCPF":"https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=communication_evenementiel&typesearch=10",
+      "linkOCR":""
+    },
+    {
+      "id": "F",
+      "name": "Construction, Bâtiment et Travaux publics",
+      "formations": [],
+      "linkCPF":"https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=btp_travaux_architecture&typesearch=10",
+      "linkOCR":""
+    },
+    {
+      "id": "G",
+      "name": "Hôtellerie - Restauration, Tourisme, Loisirs",
+      "formations": [],
+      "linkCPF":"https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=hotellerie_restauration_cuisine&typesearch=10",
+      "linkOCR":""
+    },
+    {
+      "id": "H",
+      "name": "Industrie, Ingénierie, Matériaux",
+      "formations": ["f027"],
+      "linkCPF":"https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=industrie_materiaux_energie&typesearch=10",
+      "linkOCR":""
+    },
+    {
+      "id": "I",
+      "name": "Installation et Maintenance d'équipements",
+      "formations": [],
+      "linkCPF":"https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=Installation%2C+Maintenance&Lieu=&TypeSearch=1",
+      "linkOCR":""
+    },
+    {
+      "id": "J",
+      "name": "Médical et paramédical",
+      "formations": [],
+      "linkCPF":"https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=sante_medecine&typesearch=10",
+      "linkOCR":""
+    },
+    {
+      "id": "K",
+      "name": "Services à la personne et à la collectivité",
+      "formations": [],
+      "linkCPF":"https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=social_services_a_la_personne&typesearch=10",
+      "linkOCR":""
+    },
+    {
+      "id": "L",
+      "name": "Sport, Arts du spectacle",
+      "formations": [],
+      "linkCPF":"https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=Spectacle&Lieu=&TypeSearch=1",
+      "linkOCR":""
+    },
+    {
+      "id": "M",
+      "name": "Ressources humaines et Comptabilité",
+      "formations": ["f017","f014","f016","f018"],
+      "linkCPF":"https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=Support+entreprise&Lieu=&TypeSearch=1",
+      "linkOCR":"https://openclassrooms.com/fr/paths?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie"
+    },
+    {
+      "id": "N",
+      "name": "Transport et Logistique",
+      "formations": [],
+      "linkCPF":"https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=achat_logistique&typesearch=10",
+      "linkOCR":""
+    },
+    {
+      "id": "O",
+      "name": "Métiers du digital",
+      "formations": [],
+      "linkCPF":"https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=achat_logistique&typesearch=10",
+      "linkOCR":""
+    }
+  ]
+}

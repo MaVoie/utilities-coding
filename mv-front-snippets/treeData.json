@@ -1,0 +1,1418 @@
+{
+  "id": "T004",
+  "version": "2.2.2",
+  "status": "deployed",
+  "token": "d36c046a-24e0-4af5-86c6-4a7ae664203c",
+  "solutionRepertoireId": "C003",
+  "displayModes": {
+    "Principal": {},
+    "Secondary": {},
+    "Public": {},
+    "Event": {}
+  },
+  "refSectors": {
+    "S1": {
+      "idAlgolia": "A",
+      "id": "S1",
+      "name": "Agriculture, Pêche, Métiers animaliers, Espaces verts",
+      "infos": {
+        "linkCPF": "https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=animaux_nature&typesearch=10"
+      }
+    },
+    "S2": {
+      "idAlgolia": "B",
+      "id": "S2",
+      "name": "Arts et déco",
+      "infos": {
+        "linkCPF": "https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=art_design_decoration&typesearch=10"
+      }
+    },
+    "S3": {
+      "idAlgolia": "C",
+      "id": "S3",
+      "name": "Banque, Assurance, Immobilier",
+      "infos": {
+        "linkCPF": "https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=banque_finance_assurance&typesearch=10"
+      }
+    },
+    "S4": {
+      "idAlgolia": "D",
+      "id": "S4",
+      "name": "Commerce, Vente et Grande Distribution",
+      "infos": {
+        "linkCPF": "https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=commerce_marketing&typesearch=10"
+      }
+    },
+    "S5": {
+      "idAlgolia": "E",
+      "id": "S5",
+      "name": "Communication et Média",
+      "infos": {
+        "linkCPF": "https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=communication_evenementiel&typesearch=10"
+      }
+    },
+    "S6": {
+      "idAlgolia": "F",
+      "id": "S6",
+      "name": "Construction, Bâtiment et Travaux publics",
+      "infos": {
+        "linkCPF": "https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=btp_travaux_architecture&typesearch=10"
+      }
+    },
+    "S7": {
+      "idAlgolia": "G",
+      "id": "S7",
+      "name": "Hôtellerie - Restauration, Tourisme, Loisirs",
+      "infos": {
+        "linkCPF": "https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=hotellerie_restauration_cuisine&typesearch=10"
+      }
+    },
+    "S8": {
+      "idAlgolia": "H",
+      "id": "S8",
+      "name": "Industrie, Ingénierie, Matériaux",
+      "infos": {
+        "linkCPF": "https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=industrie_materiaux_energie&typesearch=10"
+      }
+    },
+    "S9": {
+      "idAlgolia": "I",
+      "id": "S9",
+      "name": "Installation et Maintenance d'équipements",
+      "infos": {
+        "linkCPF": "https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=Installation%2C+Maintenance&Lieu=&TypeSearch=1"
+      }
+    },
+    "S10": {
+      "idAlgolia": "J",
+      "id": "S10",
+      "name": "Médical et paramédical",
+      "infos": {
+        "linkCPF": "https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=sante_medecine&typesearch=10"
+      }
+    },
+    "S11": {
+      "idAlgolia": "K",
+      "id": "S11",
+      "name": "Services à la personne et à la collectivité",
+      "infos": {
+        "linkCPF": "https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=social_services_a_la_personne&typesearch=10"
+      }
+    },
+    "S12": {
+      "idAlgolia": "L",
+      "id": "S12",
+      "name": "Sport, Arts du spectacle",
+      "infos": {
+        "linkCPF": "https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=Spectacle&Lieu=&TypeSearch=1"
+      }
+    },
+    "S13": {
+      "idAlgolia": "M",
+      "id": "S13",
+      "name": "RH et compta",
+      "infos": {
+        "linkCPF": "https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=Support+entreprise&Lieu=&TypeSearch=1"
+      }
+    },
+    "S14": {
+      "idAlgolia": "N",
+      "id": "S14",
+      "name": "Transport et Logistique",
+      "infos": {
+        "linkCPF": "https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=achat_logistique&typesearch=10"
+      }
+    },
+    "S15": {
+      "idAlgolia": "O",
+      "id": "S15",
+      "name": "Métiers du digital",
+      "infos": {
+        "linkCPF": "https://www.mon-compte-formation.fr/cpf/recherche?utm_source=mavoie.org&utm_medium=link-solutions&utm_campaign=partner-mavoie&query=Support+entreprise&Lieu=&TypeSearch=1"
+      }
+    }
+  },
+  "mapSectorsIdAlgolia": {
+    "A": "S1",
+    "B": "S2",
+    "C": "S3",
+    "D": "S4",
+    "E": "S5",
+    "F": "S6",
+    "G": "S7",
+    "H": "S8",
+    "I": "S9",
+    "J": "S10",
+    "K": "S11",
+    "L": "S12",
+    "M": "S13",
+    "N": "S14",
+    "O": "S15"
+  },
+  "checkTest": "Success",
+  "messageTest": "",
+  "mapQuestionnaireIdBranch": {
+    "q3ca001": "B1",
+    "q3ca002": "B2",
+    "q3fa001": "B5",
+    "q3fa002": "B15",
+    "q3fa003": "B13",
+    "q3dlk002": "B5",
+    "q4aa002": "B7",
+    "q4aa001": "B8",
+    "q4aa003": "B9",
+    "q4aa004": "B10",
+    "q4ba001": "B11",
+    "q4ba002": "B12",
+    "q3ba002": "B14",
+    "q3ba003": "B14",
+    "q3ea001": "B16",
+    "q3ea003": "B17"
+  },
+  "data": {
+    "B1": {
+      "id": "B1",
+      "idQuestionnaire": "q3ca001",
+      "name": "Branche 1",
+      "star": "CONVINCE",
+      "displayConfig": {
+        "rules": [
+          {
+            "solutionId": "f001",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f006",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f003",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f041",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f029",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f010",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f005",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f004",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f048",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f049",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f039",
+            "displayMode": "Event"
+          }
+        ]
+      }
+    },
+    "B2": {
+      "id": "B2",
+      "idQuestionnaire": "q3ca002",
+      "name": "Branche 2",
+      "star": "APPLY",
+      "displayConfig": {
+        "rules": [
+          {
+            "solutionId": "f001",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f004",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f029",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f005",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f006",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f048",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f010",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f003",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f041",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f049",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f039",
+            "displayMode": "Event"
+          }
+        ]
+      }
+    },
+    "B5": {
+      "id": "B5",
+      "idQuestionnaire": "q3fa001",
+      "name": "Branche 5",
+      "star": "LEARN",
+      "displayConfig": {
+        "rules": [
+          {
+            "solutionId": "f008",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f013",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f034",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f004",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f010",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f003",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f041",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f035",
+            "displayMode": "Public"
+          },
+          {
+            "solutionId": "f042",
+            "displayMode": "Secondary",
+            "sectorsId": ["S1", "S7"]
+          },
+          {
+            "solutionId": "f046",
+            "displayMode": "Secondary",
+            "sectorsId": ["S1", "S7", "S12"]
+          },
+          {
+            "solutionId": "f047",
+            "displayMode": "Principal",
+            "sectorsId": ["S1", "S6", "S8", "S9", "S11", "S15"]
+          },
+          {
+            "solutionId": "f042",
+            "displayMode": "Principal",
+            "sectorsId": ["S2", "S4"]
+          },
+          {
+            "solutionId": "f043",
+            "displayMode": "Secondary",
+            "sectorsId": ["S2", "S7", "S12"]
+          },
+          {
+            "solutionId": "f044",
+            "displayMode": "Secondary",
+            "sectorsId": ["S2", "S5"]
+          },
+          {
+            "solutionId": "f038",
+            "displayMode": "Secondary",
+            "sectorsId": ["S3", "S7"]
+          },
+          {
+            "solutionId": "f036",
+            "displayMode": "Principal",
+            "sectorsId": ["S3", "S4", "S6", "S8", "S12", "S13", "S14", "S15"]
+          },
+          {
+            "solutionId": "f033",
+            "displayMode": "Principal",
+            "sectorsId": ["S3", "S4", "S5", "S10", "S12", "S13", "S15"]
+          },
+          {
+            "solutionId": "f018",
+            "displayMode": "Principal",
+            "sectorsId": ["S3", "S4", "S5", "S15"]
+          },
+          {
+            "solutionId": "f016",
+            "displayMode": "Principal",
+            "sectorsId": ["S3", "S4", "S5", "S15"]
+          },
+          {
+            "solutionId": "f027",
+            "displayMode": "Principal",
+            "sectorsId": ["S4", "S8", "S15"]
+          },
+          {
+            "solutionId": "f015",
+            "displayMode": "Principal",
+            "sectorsId": ["S4"]
+          },
+          {
+            "solutionId": "f017",
+            "displayMode": "Principal",
+            "sectorsId": ["S4", "S5", "S15"]
+          },
+          {
+            "solutionId": "f038",
+            "displayMode": "Principal",
+            "sectorsId": ["S4", "S5", "S15"]
+          },
+          {
+            "solutionId": "f043",
+            "displayMode": "Principal",
+            "sectorsId": ["S4", "S5"]
+          },
+          {
+            "solutionId": "f046",
+            "displayMode": "Principal",
+            "sectorsId": ["S4", "S9", "S11", "S14"]
+          },
+          {
+            "solutionId": "f047",
+            "displayMode": "Secondary",
+            "sectorsId": ["S4", "S7", "S14"]
+          },
+          {
+            "solutionId": "f045",
+            "displayMode": "Secondary",
+            "sectorsId": ["S5", "S10"]
+          },
+          {
+            "solutionId": "f040",
+            "displayMode": "Principal",
+            "sectorsId": ["S6", "S8", "S9"]
+          },
+          {
+            "solutionId": "f033",
+            "displayMode": "Secondary",
+            "sectorsId": ["S7"]
+          },
+          {
+            "solutionId": "f036",
+            "displayMode": "Secondary",
+            "sectorsId": ["S7"]
+          },
+          {
+            "solutionId": "f016",
+            "displayMode": "Secondary",
+            "sectorsId": ["S7"]
+          },
+          {
+            "solutionId": "f031",
+            "displayMode": "Secondary",
+            "sectorsId": ["S9"]
+          },
+          {
+            "solutionId": "f037",
+            "displayMode": "Principal",
+            "sectorsId": ["S9"]
+          },
+          {
+            "solutionId": "f030",
+            "displayMode": "Principal",
+            "sectorsId": ["S10", "S11"]
+          },
+          {
+            "solutionId": "f040",
+            "displayMode": "Secondary",
+            "sectorsId": ["S11", "S14"]
+          },
+          {
+            "solutionId": "f045",
+            "displayMode": "Principal",
+            "sectorsId": ["S11", "S13"]
+          },
+          {
+            "solutionId": "f037",
+            "displayMode": "Secondary",
+            "sectorsId": ["S15"]
+          },
+          {
+            "solutionId": "f031",
+            "displayMode": "Principal",
+            "sectorsId": ["S15"]
+          },
+          {
+            "solutionId": "f044",
+            "displayMode": "Principal",
+            "sectorsId": ["S15"]
+          }
+        ]
+      }
+    },
+    "B7": {
+      "id": "B7",
+      "idQuestionnaire": "q4aa002",
+      "name": "Branche 7",
+      "star": "LEARN",
+      "displayConfig": {
+        "rules": [
+          {
+            "solutionId": "f038",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f037",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f036",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f034",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f033",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f030",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f031",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f015",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f016",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f027",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f040",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f042",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f043",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f044",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f045",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f046",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f047",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f048",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f049",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f022",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f041",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f039",
+            "displayMode": "Event"
+          }
+        ]
+      }
+    },
+    "B8": {
+      "id": "B8",
+      "idQuestionnaire": "q4aa001",
+      "name": "Branche 8",
+      "star": "LEARN",
+      "displayConfig": {
+        "rules": [
+          {
+            "solutionId": "f038",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f036",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f034",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f033",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f004",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f017",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f018",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f019",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f040",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f042",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f043",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f044",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f045",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f046",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f047",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f048",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f049",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f027",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f015",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f016",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f041",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f039",
+            "displayMode": "Event"
+          }
+        ]
+      }
+    },
+    "B9": {
+      "id": "B9",
+      "idQuestionnaire": "q4aa003",
+      "name": "Branche 9",
+      "star": "LEARN",
+      "displayConfig": {
+        "rules": [
+          {
+            "solutionId": "f034",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f004",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f038",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f001",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f022",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f003",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f041",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f042",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f043",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f044",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f045",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f046",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f047",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f048",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f039",
+            "displayMode": "Event"
+          }
+        ]
+      }
+    },
+    "B10": {
+      "id": "B10",
+      "idQuestionnaire": "q4aa004",
+      "name": "Branche 10",
+      "star": "LEARN",
+      "displayConfig": {
+        "rules": [
+          {
+            "solutionId": "f038",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f036",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f034",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f033",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f004",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f015",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f016",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f040",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f042",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f043",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f044",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f045",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f046",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f047",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f048",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f049",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f037",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f031",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f030",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f027",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f018",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f041",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f039",
+            "displayMode": "Event"
+          }
+        ]
+      }
+    },
+    "B11": {
+      "id": "B11",
+      "idQuestionnaire": "q4ba001",
+      "name": "Branche 11",
+      "star": "KNOW",
+      "displayConfig": {
+        "rules": [
+          {
+            "solutionId": "f034",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f022",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f004",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f049",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f001",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f003",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f048",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f039",
+            "displayMode": "Event"
+          }
+        ]
+      }
+    },
+    "B12": {
+      "id": "B12",
+      "idQuestionnaire": "q4ba002",
+      "name": "Branche 12",
+      "star": "KNOW",
+      "displayConfig": {
+        "rules": [
+          {
+            "solutionId": "f049",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f022",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f004",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f048",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f039",
+            "displayMode": "Event"
+          }
+        ]
+      }
+    },
+    "B13": {
+      "id": "B13",
+      "idQuestionnaire": "q3fa003",
+      "name": "Branche 13",
+      "star": "KNOW",
+      "displayConfig": {
+        "rules": [
+          {
+            "solutionId": "f001",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f004",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f034",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f006",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f029",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f048",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f049",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f010",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f005",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f013",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f039",
+            "displayMode": "Event"
+          }
+        ]
+      }
+    },
+    "B14": {
+      "id": "B14",
+      "idQuestionnaire": "q3ba002",
+      "idQuestionnaire2": "q3ba003",
+      "name": "Branche 14",
+      "star": "APPLY",
+      "displayConfig": {
+        "rules": [
+          {
+            "solutionId": "f001",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f029",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f005",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f006",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f048",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f004",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f010",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f003",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f041",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f049",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f039",
+            "displayMode": "Event"
+          }
+        ]
+      }
+    },
+    "B15": {
+      "id": "B15",
+      "idQuestionnaire": "q3fa002",
+      "name": "Branche 15",
+      "star": "APPLY",
+      "displayConfig": {
+        "rules": [
+          {
+            "solutionId": "f001",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f004",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f029",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f006",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f005",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f048",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f033",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f008",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f009",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f041",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f049",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f035",
+            "displayMode": "Public"
+          },
+          {
+            "solutionId": "f047",
+            "displayMode": "Secondary",
+            "sectorsId": ["S1", "S6", "S8", "S9", "S11", "S15"]
+          },
+          {
+            "solutionId": "f042",
+            "displayMode": "Secondary",
+            "sectorsId": ["S2", "S4"]
+          },
+          {
+            "solutionId": "f036",
+            "displayMode": "Secondary",
+            "sectorsId": [
+              "S3",
+              "S4",
+              "S6",
+              "S7",
+              "S8",
+              "S12",
+              "S13",
+              "S14",
+              "S15"
+            ]
+          },
+          {
+            "solutionId": "f033",
+            "displayMode": "Secondary",
+            "sectorsId": ["S3", "S4", "S5", "S7", "S10", "S12", "S13", "S15"]
+          },
+          {
+            "solutionId": "f018",
+            "displayMode": "Secondary",
+            "sectorsId": ["S3", "S4", "S5", "S15"]
+          },
+          {
+            "solutionId": "f016",
+            "displayMode": "Secondary",
+            "sectorsId": ["S3", "S4", "S5", "S7", "S15"]
+          },
+          {
+            "solutionId": "f027",
+            "displayMode": "Secondary",
+            "sectorsId": ["S4", "S8", "S15"]
+          },
+          {
+            "solutionId": "f015",
+            "displayMode": "Secondary",
+            "sectorsId": ["S4"]
+          },
+          {
+            "solutionId": "f017",
+            "displayMode": "Secondary",
+            "sectorsId": ["S4", "S5", "S15"]
+          },
+          {
+            "solutionId": "f038",
+            "displayMode": "Secondary",
+            "sectorsId": ["S4", "S5", "S15"]
+          },
+          {
+            "solutionId": "f043",
+            "displayMode": "Secondary",
+            "sectorsId": ["S4", "S5"]
+          },
+          {
+            "solutionId": "f046",
+            "displayMode": "Secondary",
+            "sectorsId": ["S4", "S9", "S11", "S14"]
+          },
+          {
+            "solutionId": "f044",
+            "displayMode": "Secondary",
+            "sectorsId": ["S5", "S15"]
+          },
+          {
+            "solutionId": "f040",
+            "displayMode": "Secondary",
+            "sectorsId": ["S6", "S8", "S9"]
+          },
+          {
+            "solutionId": "f031",
+            "displayMode": "Secondary",
+            "sectorsId": ["S9", "S15"]
+          },
+          {
+            "solutionId": "f037",
+            "displayMode": "Secondary",
+            "sectorsId": ["S9", "S15"]
+          },
+          {
+            "solutionId": "f030",
+            "displayMode": "Secondary",
+            "sectorsId": ["S10", "S11"]
+          },
+          {
+            "solutionId": "f045",
+            "displayMode": "Secondary",
+            "sectorsId": ["S11", "S13"]
+          }
+        ]
+      }
+    },
+    "B16": {
+      "id": "B16",
+      "idQuestionnaire": "q3ea001",
+      "name": "Branche 16",
+      "star": "CONVINCE",
+      "displayConfig": {
+        "rules": [
+          {
+            "solutionId": "f001",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f004",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f003",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f006",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f041",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f034",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f029",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f010",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f005",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f048",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f049",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f035",
+            "displayMode": "Public"
+          }
+        ]
+      }
+    },
+    "B17": {
+      "id": "B17",
+      "idQuestionnaire": "q3ea003",
+      "name": "Branche 17",
+      "star": "APPLY",
+      "displayConfig": {
+        "rules": [
+          {
+            "solutionId": "f034",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f004",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f006",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f029",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f001",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f048",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f049",
+            "displayMode": "Principal"
+          },
+          {
+            "solutionId": "f036",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f033",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f030",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f008",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f009",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f005",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f041",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f010",
+            "displayMode": "Secondary"
+          },
+          {
+            "solutionId": "f035",
+            "displayMode": "Public"
+          },
+          {
+            "solutionId": "f047",
+            "displayMode": "Secondary",
+            "sectorsId": ["S1", "S6", "S8", "S11", "S15"]
+          },
+          {
+            "solutionId": "f042",
+            "displayMode": "Secondary",
+            "sectorsId": ["S2", "S4"]
+          },
+          {
+            "solutionId": "f036",
+            "displayMode": "Secondary",
+            "sectorsId": [
+              "S3",
+              "S4",
+              "S6",
+              "S7",
+              "S8",
+              "S12",
+              "S13",
+              "S14",
+              "S15"
+            ]
+          },
+          {
+            "solutionId": "f033",
+            "displayMode": "Secondary",
+            "sectorsId": ["S3", "S4", "S5", "S7", "S10", "S12", "S13", "S15"]
+          },
+          {
+            "solutionId": "f018",
+            "displayMode": "Secondary",
+            "sectorsId": ["S3", "S4", "S5", "S15"]
+          },
+          {
+            "solutionId": "f016",
+            "displayMode": "Secondary",
+            "sectorsId": ["S3", "S4", "S5", "S7", "S15"]
+          },
+          {
+            "solutionId": "f027",
+            "displayMode": "Secondary",
+            "sectorsId": ["S4", "S8", "S15"]
+          },
+          {
+            "solutionId": "f015",
+            "displayMode": "Secondary",
+            "sectorsId": ["S4"]
+          },
+          {
+            "solutionId": "f017",
+            "displayMode": "Secondary",
+            "sectorsId": ["S4", "S5", "S15"]
+          },
+          {
+            "solutionId": "f038",
+            "displayMode": "Secondary",
+            "sectorsId": ["S4", "S5", "S15"]
+          },
+          {
+            "solutionId": "f043",
+            "displayMode": "Secondary",
+            "sectorsId": ["S4", "S5"]
+          },
+          {
+            "solutionId": "f046",
+            "displayMode": "Secondary",
+            "sectorsId": ["S4", "S11", "S14"]
+          },
+          {
+            "solutionId": "f044",
+            "displayMode": "Secondary",
+            "sectorsId": ["S5", "S15"]
+          },
+          {
+            "solutionId": "f040",
+            "displayMode": "Secondary",
+            "sectorsId": ["S6", "S8"]
+          },
+          {
+            "solutionId": "f030",
+            "displayMode": "Secondary",
+            "sectorsId": ["S10", "S11"]
+          },
+          {
+            "solutionId": "f045",
+            "displayMode": "Secondary",
+            "sectorsId": ["S11", "S13"]
+          },
+          {
+            "solutionId": "f037",
+            "displayMode": "Secondary",
+            "sectorsId": ["S15"]
+          },
+          {
+            "solutionId": "f031",
+            "displayMode": "Secondary",
+            "sectorsId": ["S15"]
+          }
+        ]
+      }
+    }
+  }
+}
