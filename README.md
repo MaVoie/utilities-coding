@@ -1,2 +1,4 @@
 # utilities-coding
-Everything that boost coding tasks 
+
+Everything that boost coding tasks and coding samples
+
